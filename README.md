@@ -1,10 +1,11 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Jangan lupa untuk menginstall Dependencies dan Library dengan :
+### `npm i`
 
 ## Available Scripts
 
-In the project directory, you can run:
+Untuk menjalankan web, bisa mengetikkan :
 
 ### `npm start`
 
